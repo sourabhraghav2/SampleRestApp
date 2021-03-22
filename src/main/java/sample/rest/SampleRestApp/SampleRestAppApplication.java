@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SampleRestAppApplication {
 	@GetMapping("test")
 	public String testMethod(){
-		return "Hi I am working !";
+		return "Hey I am working !";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(SampleRestAppApplication.class, args);
