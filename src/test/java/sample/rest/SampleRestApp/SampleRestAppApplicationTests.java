@@ -9,6 +9,7 @@ class SampleRestAppApplicationTests {
     @Test
     void contextLoads() {
         assert (true);
+        assert (false);
     }
 
 
