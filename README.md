@@ -1,1 +1,1 @@
-# SampleRestApp
+# SampleRestApplication
